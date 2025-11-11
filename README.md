@@ -18,3 +18,7 @@
 
 - CS 1 Actuarial Statistics, Core Reading Material
 - Mathematical Statistics with Applications, Wackerly, Mendenhall, Scheaffer (Cengage Learning)
+
+## Financial Mathematics
+
+- Mathematics of Investment and Credit, Samuel A. Broverman (Wiley)

@@ -22,3 +22,11 @@
 ## Financial Mathematics
 
 - Mathematics of Investment and Credit, Samuel A. Broverman (Wiley)
+
+## Programming and Algorithms
+
+- Data Structures and Algorithms in Python, Goodrich, Tamassia & Goldwasser
+- Algorithm Design, Jon Kleinberg & Éva Tardos
+- Algorithms, Sanjoy Dasgupta, Christos Papadimitriou & Umesh Vazirani
+- Fluent Python, Luciano Ramalho
+- Growing Object-Oriented Software, Guided by Tests, Steve Freeman & Nat Pryce

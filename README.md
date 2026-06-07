@@ -7,6 +7,8 @@
 ## Machine Learning
 
 - Hands-On Machine Learning with Scikit-Learn and PyTorch, Aurelien Geron (O'Reilly)
+- A Few Useful Things to Know about Machine Learning
+- The Kaggle Book, Konrad Banachewicz & Luca Massaron (O'Reilly)
 
 ## Corporate Finance
 
@@ -30,3 +32,22 @@
 - Algorithms, Sanjoy Dasgupta, Christos Papadimitriou & Umesh Vazirani
 - Fluent Python, Luciano Ramalho
 - Growing Object-Oriented Software, Guided by Tests, Steve Freeman & Nat Pryce
+
+## Aptitude
+
+- Aptitude Test Book, Overflow
+
+## Self-Help Spiritual
+
+- Worship of Sri Ramakrishna, Swami Nikhilananda
+- Asana Pranayama Mudra Bandha, Swami Satyananda Saraswati
+
+## Self-Help
+
+- One Minute Manager, Kenneth Blanchard & Spencer Johnson
+
+## Statistics
+
+- Introduction to Statistical Learning, Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani (Springer)
+- Elements of Statistical Learning, Trevor Hastie, Robert Tibshirani & Jerome Friedman (Springer)
+- Probability and Statistics for Engineers and Scientists, Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers & Keying Ye (Pearson)
